@@ -1,6 +1,6 @@
 # Hello World
 - 👋 Hi, I’m @c-i-p-h-e-r
-- 👀 I’m interested in Cryptography particularly Cryptnalaysis
+- 👀 I’m interested in Cryptography particularly Cryptanalaysis
 - 🌱 I’m currently learning Automated Cryptanalysis and Post-Quatum Crypto
 - 💞️ I’m looking to collaborate on anything related to Cryptography 
 - 📫 You can know more about me and my research at http://dhimans.in
